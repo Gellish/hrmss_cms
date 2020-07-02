@@ -1,0 +1,13 @@
+.page-item.active .page-link, .page-item.active .page-link:focus, .page-item.active .page-link:hover {
+	z-index: 0 !important;
+}
+.cd-panel-header h5{
+    padding-top: 5%;
+}
+.report-params {
+	border: 1px solid #ccc;
+    padding-top: 15px;
+    margin-bottom: 20px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+}

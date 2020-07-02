@@ -1,0 +1,27 @@
+Fresh Installation
+////////
+
+please watch the installation video first which is provided in our blog.
+
+//////////////
+Copy the files from the zip folder into your server.
+
+Then go to Your Server for example, www.example.com/install/
+Make sure application/config/database.php to be writable
+
+/////////////////
+Follow the instruction
+
+Enter your database username
+Enter your database password
+Enter your database name
+
+Press the "Install" button. All Done
+
+//////////////////////////////
+
+If you are using godaddy server then their is another htaccess file for godaddy server users.
+
+The htaccess file is under Htaccess for godaddy_server folder, upload this htaccess file to root of the project.
+
+////////////////
